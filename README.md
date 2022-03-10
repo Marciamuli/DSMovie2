@@ -10,11 +10,11 @@
 ![Captura de tela 2022-03-09 221510](https://user-images.githubusercontent.com/52283960/157573526-47db8239-1db2-44f6-9d1b-273f77face23.png)
 
 
-## #BOOTSTRAP
+### #BOOTSTRAP
 
-## #HTML
+### #HTML
 
-## #CSS
+### #CSS
 
-## #JAVASCRIPT
+### #JAVASCRIPT
 
